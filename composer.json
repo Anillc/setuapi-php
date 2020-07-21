@@ -1,0 +1,17 @@
+{
+  "name": "anillc/setuapi-php",
+  "description": "setuapi-php",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Anillc",
+      "email": "an@kano.cat"
+    }
+  ],
+  "require": {
+    "bramus/router": "~1.4",
+    "ext-curl": "*",
+    "ext-json": "*"
+  }
+}
